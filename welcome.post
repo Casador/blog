@@ -7,4 +7,4 @@ body="Hello all and welcome to my blog which I have recently just got up and run
 
 "
 
-outputFile="welcome-to-my-blog.html"
+outputFile="/var/www/html/~deavmi/blog/welcome-to-my-blog.html"
