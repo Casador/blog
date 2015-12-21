@@ -4,7 +4,7 @@ author="Tristan B. Kildaire"
 date="21 December 2015"
 
 body="Hello all and welcome to my blog which I have recently just got
-up and running thanks to @Walkman100 (on GitHub) for hosting it on his
-web-server!"
+up and running thanks to @Walkman100 (on GitHub) for hosting it
+on his web-server!"
 
 outputFile="/var/www/html/~deavmi/blog/welcome-to-my-blog.html"
