@@ -5,6 +5,13 @@ date="21 December 2015"
 
 body="Hello all and welcome to my blog which I have recently just got
 up and running thanks to @Walkman100 (on GitHub) for hosting it
-on his web-server!"
+on his web-server which is an awesome little Raspberry Pi!
+
+I will be posting everything that I think is post-worthy onto this
+blog right here, so stay tuned. You will see many posts about many
+of my projects that I am currently working on. :)
+
+
+"
 
 outputFile="/var/www/html/~deavmi/blog/welcome-to-my-blog.html"
