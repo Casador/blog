@@ -13,3 +13,5 @@ own blogging system, it simply generates HTML pages for the .post blog post form
 I leave you with a link to the libspoon bash library: https://github.com/deavmi/libspoon
 And one to my blogging script which uses libspoon to periodically generate my blog posts
 as HTML pages: https://github.com/deavmi/blogCode ."
+
+outputFile="/var/www/html/~deavmi/blog/what-makes-my-blog.html"
