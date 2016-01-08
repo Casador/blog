@@ -2,7 +2,7 @@ title="Beginning the Kowalski Project"
 
 author="Tristan B. Kildaire"
 
-date="22 December 2015"
+date="22December 2015"
 
 body="<h2>The new year!</h2>
 
@@ -13,7 +13,7 @@ is a programming language interpreter that I want to write in Bash.
 
 So with all of this above I had to do something?! Therefore I decided
 to start working on the site which is now pretty much done (could do
-with some scripts that run on a server like @Walkman100's to re-generate
+with some scripts that run on a server like [@Walkman100](https://github.com/Walkman100)'s to re-generate
 the Markdown documentation as an HTML page). But enough rambling on, here
 is the URL to the site: [https://kowalskilang.github.io](https://kowalskilang.github.io)."
 
