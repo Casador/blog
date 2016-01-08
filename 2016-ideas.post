@@ -3,9 +3,7 @@ author="Tristan B. Kildaire"
 date="8 Janurary 2016"
 
 body="<h2>Acorn build system</h2>
-**Acorn** is a build system implemented in Bash that I would love to build this year. It is similiar to \`make\` however way more simpler and easier to setup and get your binaries built.
-
-I will be implementing it in Bash as I am trying to practice this scripting langauge as much as I can to become fluent in it.
+**Acorn** is a build system implemented in Bash that I would love to build this year. It is similiar to \`make\` however way more simpler and easier to setup and get your binaries built. I will be implementing it in Bash as I am trying to practice this scripting langauge as much as I can to become fluent in it.
 
 <h3>How will Acorn work?</h3>
 
