@@ -7,7 +7,7 @@ date="22 December 2015"
 body="If you have been wondering what script or program is generating my blog
 for me then wonder not further, it is a Bash library I wrote myself called libspoon.
 
-libspoon is the type of static site generator taht you have to incorporate into your
+libspoon is the type of static site generator that you have to incorporate into your
 own blogging system, it simply generates HTML pages for the .post blog post format.
 
 I leave you with a link to the libspoon bash library: https://github.com/deavmi/libspoon
@@ -15,3 +15,4 @@ And one to my blogging script which uses libspoon to periodically generate my bl
 as HTML pages: https://github.com/deavmi/blogCode ."
 
 outputFile="/var/www/html/~deavmi/blog/what-makes-my-blog.html"
+
