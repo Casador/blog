@@ -1,25 +1,25 @@
 title="2016 Ideas"
 author="Tristan B. Kildaire"
-date="8 Janurary 2016"
+date="8 January 2016"
 
 body="<h2>Acorn build system</h2>
-**Acorn** is a build system implemented in Bash that I would love to build this year. It is similiar to \`make\` however way more simpler and easier to setup and get your binaries built. I will be implementing it in Bash as I am trying to practice this scripting langauge as much as I can to become fluent in it.
+**Acorn** is a build system implemented in Bash that I would love to build this year. It is similar to \`make\` however way more simpler and easier to set up and get your binaries built. I will be implementing it in Bash as I am trying to practice this scripting language as much as I can to become fluent in it.
 
 <h3>How will Acorn work?</h3>
 
-**Acorn** will build packages or just simply compile your source code by using a \`.abs\` file which specifies a list of commands to be run and other information. Acorn will then go through the list of commands and execute each one of them procedurally in order. These commands are what would be things liek your \`gcc\` commands to compile source files into binaries.
+**Acorn** will build packages or just simply compile your source code by using a \`.abs\` file which specifies a list of commands to be run and other information. Acorn will then go through the list of commands and execute each one of them procedurally in order. These commands are what would be things like your \`gcc\` commands to compile source files into binaries.
 
 <h2>Acorn build server</h2>
 
-This is a related project to the **Acorn Build System** project, what this project does is different tough, hence the change in the last word of the name, _server_.
+This is a related project to the **Acorn Build System** project, what this project does is different though, hence the change in the last word of the name, _server_.
 
 This project is aimed at created a continuous build server that will build \`.acorn\` files continuously and spit out binaries.
 
 <h2>So what else?</h2>
 
-Well, I'd like to close off this blog post now but I can say one thing the two projects mentioned above go very well toghether and I think creating both will really be great and will create a world of simplistic systems where maintaining stuff is really easy and such. The **Acorn Build System** is no replacement for the **make** build system but rather a tool to bind many build tools and compilers toghether in one uniform syntax and tool with a side-project that can continuously build binaries from \`.acorn\` files.
+Well, I'd like to close off this blog post now but I can say one thing the two projects mentioned above go very well together and I think creating both will really be great and will create a world of simplistic systems where maintaining stuff is really easy and such. The **Acorn Build System** is no replacement for the **make** build system but rather a tool to bind many build tools and compilers together in one uniform syntax and tool with a side-project that can continuously build binaries from \`.acorn\` files.
 
-That's all from me guys. There are more project ideas but for now these are the projects that I will be working on and aiming at starting-finishing in January-Ferbruary.
+That's all from me guys. There are more project ideas but for now these are the projects that I will be working on and aiming at starting-finishing in January-February.
 
 Bye bye!"
 
