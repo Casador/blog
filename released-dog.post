@@ -1,0 +1,10 @@
+title="dog - Graphical cat for your terminal."
+date="8 January 2015"
+
+author="Tristan B. Kildaire"
+
+body="I have recently released **dog** which is a Bash-written program that is similiar to ehat the \`cat\` program does however in a graphical way by using the Whiptail Graphical Dialog program.
+
+You can check it out here: [https://github.com/deavmi/dog](https://github.com/deavmi/dog)."
+
+outputFile="/var/www/html/~deavmi/blog/released-dog.html"
