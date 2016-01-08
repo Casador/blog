@@ -1,6 +1,6 @@
 title="2016 Ideas"
 author="Tristan B. Kildaire (Deavmi)"
-date=8th of Janurary 2016
+date="8th of Janurary 2016"
 
 body="<h2>Acorn build system</h2>
 **Acorn** is a build system implemented in Bash that I would love to build this year. It is similiar to \`make\` however way more simpler and easier to setup and get your binaries built.
