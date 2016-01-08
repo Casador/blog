@@ -4,7 +4,9 @@ author="Tristan B. Kildaire"
 
 date="22 December 2015"
 
-body="As part of my new year resolutions I have planned to start
+body="##The new year!
+
+As part of my new year resolutions I have planned to start
 all of my new projects next year and re-write those old ones also
 next year, but I then started to get excited about Kowalski which
 is a programming language interpreter that I want to write in Bash.
@@ -13,6 +15,6 @@ So with all of this above I had to do something?! Therefore I decided
 to start working on the site which is now pretty much done (could do
 with some scripts that run on a server like @Walkman100's to re-generate
 the Markdown documentation as an HTML page). But enough rambling on, here
-is the URL to the site: https://kowalskilang.github.io ."
+is the URL to the site: [https://kowalskilang.github.io](https://kowalskilang.github.io)."
 
 outputFile="/var/www/html/~deavmi/blog/beginning-kowalski.html"
