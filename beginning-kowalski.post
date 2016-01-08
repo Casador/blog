@@ -15,4 +15,4 @@ with some scripts that run on a server like @Walkman100's to re-generate
 the Markdown documentation as an HTML page). But enough rambling on, here
 is the URL to the site: https://kowalskilang.github.io ."
 
-outputFile="/var/www/html/~deavmi/blog/beginning-kowalski.html"
+outputFile="/var/www/html/~deavmi/blogSource/beginning-kowalski.html"
